@@ -1,0 +1,24 @@
+# Dune build directory
+_build/
+
+# OCaml compiled files
+*.cmi
+*.cmo
+*.cmx
+*.cmxa
+*.cmxs
+*.cmt
+*.cmti
+*.o
+*.a
+
+# Merlin
+.merlin
+
+# Editors
+.vscode/
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
